@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - I am more focusion on Javascript playing arounf frontend and node as a backend.
 - I hava programming knowledge on C, Java, Python, and Javascript.
 - For version contron, I use git.
+**Language Used**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApsaraBudhathoki&layout=compact)](https://github.com/ApsaraBudhathoki/github-readme-stats)
 
+![Apsara's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApsaraBudhathoki&show_icons=true&theme=radical)
