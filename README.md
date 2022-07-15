@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - I’m currently learning Btech. CSE(Cloud Technology and Mobile Application)
-- I’m looking to collaborate on open source web development projects.
+- I’m looking to collaborate on open source web development projects
 - I am more focusion on Javascript playing around frontend and nodejs as a backend.
 - I hava programming knowledge on C, Java, Python, and Javascript.
 - For version control, I prefer Git and GitHub
